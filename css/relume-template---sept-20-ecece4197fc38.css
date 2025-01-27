@@ -3550,7 +3550,7 @@ figcaption {
 }
 
 .navbar11_component {
-  z-index: 10;
+  z-index: 1;
   opacity: 1;
   color: #fff;
   background-color: #000;
